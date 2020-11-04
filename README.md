@@ -7,4 +7,9 @@ MeetUp Code Repository
 
 | Date | Topic | Owner |
 |--|--|--|
-05.11.2020 | Terraform on Steroids | Sunny Nazar |
+05.11.2020 | **Terraform on Steroids** | Sunny Nazar |
+
+<br>
+<br>
+
+(c) 2020, Cloudeteer GmbH
