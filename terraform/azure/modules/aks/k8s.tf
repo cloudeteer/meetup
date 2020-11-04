@@ -21,7 +21,7 @@ resource "azurerm_kubernetes_cluster" "aks" {
     admin_username = var.admin_username
 
     ssh_key {
-      key_data = file("${path.module}/files/id_rsa.pub")
+      key_data = file("${path.module}/files/cdt-demo.pub")
     }
   }
 
