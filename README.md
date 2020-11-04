@@ -1,6 +1,7 @@
-# meetup
+# Meetup
 
-CLOUDNATICS MeetUp Code Repository
+CLOUDNATICS.
+MeetUp Code Repository
 
 ## Schedule
 
