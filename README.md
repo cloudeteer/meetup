@@ -18,7 +18,7 @@ MeetUp Code Repository
   - [Prerequisites](#prerequisites)
   - [Terraform startup material](#terraform-startup-material)
     - [HashiCorp Configuration Language](#hashicorp-configuration-language)
-    - [Terraform ecosystem](#Terraform ecosystem)
+    - [Terraform ecosystem](#Terraform-ecosystem)
     - [Terraform Code Quality](#terraform-code-quality)
   - [Modules](#modules)
   - [Azure Landing Zone](#azure-landing-zone)
