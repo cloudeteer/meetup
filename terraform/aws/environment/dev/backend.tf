@@ -7,3 +7,5 @@ terraform {
     key            = "tfstate/cdt-demo-tfstate"
   }
 }
+
+# s3 backend with server side encryption, dnymo db table for tf state locking
