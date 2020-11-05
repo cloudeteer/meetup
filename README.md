@@ -42,10 +42,10 @@ This section contains a collection of links that will help you to understand abo
 
 ### Terraform ecosystem
 
-- CLI commands [terraform.io/docs/commands/index.html](https://www.terraform.io/docs/commands/index.html)
-- variables and type constraints: [terraform.io/docs/configuration/variables.html](https://www.terraform.io/docs/configuration/variables.html#type-constraints)
-- variable definition files: [terraform.io/docs/configuration/variables.html](https://www.terraform.io/docs/configuration/variables.html#variable-definitions-tfvars-files)
-- information about Terraform State: [terraform.io/docs/state/index.html](https://www.terraform.io/docs/state/index.html)
+- TF CLI commands [terraform.io/docs/commands/index.html](https://www.terraform.io/docs/commands/index.html)
+- TF variables and type constraints: [terraform.io/docs/configuration/variables.html](https://www.terraform.io/docs/configuration/variables.html#type-constraints)
+- TF variable definition files: [terraform.io/docs/configuration/variables.html](https://www.terraform.io/docs/configuration/variables.html#variable-definitions-tfvars-files)
+- Terraform State: [terraform.io/docs/state/index.html](https://www.terraform.io/docs/state/index.html)
 
 
 ### Terraform Code Quality
