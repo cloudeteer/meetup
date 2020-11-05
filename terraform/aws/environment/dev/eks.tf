@@ -1,6 +1,6 @@
 module "eks" {
-  source  = "terraform-aws-modules/eks/aws"
-  version = "12.2.0"
+  source           = "terraform-aws-modules/eks/aws"
+  version          = "12.2.0"
   cluster_name     = var.demo_name
   cluster_version  = var.cluster_version
   subnets          = module.vpc.private_subnets
@@ -14,5 +14,5 @@ module "eks" {
       instance_type        = "t3.large"
     }
   ]
-   tags = var.tags
+  tags = var.tags
 }
