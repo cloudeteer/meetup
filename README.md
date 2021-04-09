@@ -4,7 +4,7 @@
 MeetUp Code Repository
 
 Here you can find all of the example code used during our meetups. Recordings of our
-meetups will be made available on our [YoutTube Channel](https://www.youtube.com/channel/UC7RDLVNX8r65PQppWNTn3yA).
+meetups will be made available on our [YouTube Channel](https://www.youtube.com/channel/UC7RDLVNX8r65PQppWNTn3yA).
 
 ## Schedule
 
